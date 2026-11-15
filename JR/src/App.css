@@ -1,0 +1,7 @@
+/* Main application custom styles. Core reset and page structures are in index.css */
+#root {
+  width: 100%;
+  min-height: 100vh;
+  margin: 0;
+  padding: 0;
+}
